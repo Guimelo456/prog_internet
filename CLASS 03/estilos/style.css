@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+
+} 
+p { 
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    color: red;
+}
+
