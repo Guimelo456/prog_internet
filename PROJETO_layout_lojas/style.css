@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+p {
+   font-size: 30px;
+   padding: 180px;
+   border: 150px;
+ 
+}
+
+.preco {
+    color: red;
+}
+
+
+    
+div {
+  height: 5%;
+}
+
+h2 {
+    height: 30px;
+    
+}
+br {
+    padding: 400px;
+    height: 70px;
+
+}
+
+a {
+  color: pink;
+}
+
+
+
+
+
