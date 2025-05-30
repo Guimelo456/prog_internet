@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    color: yellow;
+    
+}
+
+h3 {
+    color:blue ;
+    padding: 5px;
+    display: flex  80px;
+   
+    
+}
+
+h4 {
+    color: green;
+    font-size: 20px;
+}
+
+
+.card-produto {
+   
+    position: absolute;
+    height: 250px;
+    background-color: gray;
+    width: 870px;
+    padding: 20px;
+    border: 8px solid #0e9fe2;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    position: relative;
+    border-radius: 30px;
+    width: 350px;
+    height: 255px;
+    float: right;
+    padding: 30;
+    margin-top: -50px;
+    top: -20px;
+   
+    
+}
+
+.botao {
+  background-color: #b11b98; 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botao:hover {
+  background-color: #030504; 
+}
+
+
+span {
+    color: black;
+}
+
+
+
+   
+    
+
+   
+
+
+
+
+
+    
+
+
